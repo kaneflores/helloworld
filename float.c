@@ -31,5 +31,5 @@ int main(){
 
     printf("The area of the triangle is %f cm\n", area);
 
-    return -1
+    return -1;
 }
