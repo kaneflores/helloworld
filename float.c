@@ -17,5 +17,7 @@ int main(){
     printf("What is the radius in cm? \n");
     scanf("%f", &radius);
 
+    area = radius * radius * pi;
+    printf("The area of the circle is  %f cm\n", area);
     return 0;
 }
