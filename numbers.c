@@ -14,7 +14,7 @@ int main(){
         printf("The result is %d\n", result);
     }
     else{
-        printf("67!!!!!!!!!!!!!!!\n");
+        printf("67!!!!!!!!!!!!!!!!\n");
     }
       
     
