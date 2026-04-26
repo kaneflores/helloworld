@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main(){
-    int x;
+    int x; //EXPLICITLY DEFINE YOUR VARIABLES
     // while, do, for (types of loops)
 
 
