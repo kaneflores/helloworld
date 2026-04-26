@@ -1,4 +1,5 @@
 #include <stdio.h>
+#include <windows.h>
 
 int main(){
     int start;
@@ -8,7 +9,7 @@ int main(){
 
     for(int i = start; i>=0; i--){
         printf("%d\n", i);
-        Sleep(999.9);
+        Sleep(999);
     }
 
     printf("You have gone from %d to 0\n", start);
