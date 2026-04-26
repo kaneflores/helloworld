@@ -8,7 +8,7 @@ int main(){
     scanf("%d", &start);
 
     for(int i = start; i>=0; i--){
-        printf("%d\n", i);
+        printf("\n%d\n", i);
         Sleep(999);
     }
 
