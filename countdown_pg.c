@@ -4,11 +4,11 @@
 int main(){
     int start;
 
-    printf("How long is your countdown? \n");
+    printf("How long is your countdown? ");
     scanf("%d", &start);
 
     for(int i = start; i>=0; i--){
-        printf("\n%d\n", i);
+        printf("%d\n", i);
         Sleep(999);
     }
 
