@@ -11,7 +11,7 @@ int main(){
     // if (x ==1){
     //     return 0;
     // }
-    printf("testing you see this\n");
+    //printf("testing you see this\n");
     while (1){ // repeats indefinitely
         printf("Do you wish to quit? Press 1. \n");
         scanf("%d", &x);
