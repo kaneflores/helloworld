@@ -6,7 +6,7 @@ int main() {
 }
 
 #include <stdio.h>
-
+//changed name to hw-birch
 int main(){
     printf("Hello, World! \n");
 }
